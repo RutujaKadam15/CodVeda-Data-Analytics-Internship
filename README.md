@@ -1,8 +1,4 @@
-# 🚀 CodVeda Data Analytics Internship
 
-Welcome to my CodVeda Data Analytics Internship repository.
-
-This repository contains all tasks and projects completed during my internship, covering Data Cleaning, Exploratory Data Analysis, Machine Learning, and Power BI Dashboard Development.
 
 # 🚀 CodVeda Data Analytics Internship
 
