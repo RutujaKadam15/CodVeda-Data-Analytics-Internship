@@ -131,11 +131,11 @@ Developed an interactive Power BI dashboard to analyze stock market performance 
 
 **Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning**
 
-📧 Email: *Add your email here*
+📧 Email: rutujakadam007@gmail.com
 
-🔗 LinkedIn: *Add your LinkedIn profile link*
+🔗 LinkedIn: https://www.linkedin.com/in/rutuja-kadam-33b55531b/
 
-💻 GitHub: *Add your GitHub profile link*
+💻 GitHub: https://github.com/RutujaKadam15
 
 ---
 
