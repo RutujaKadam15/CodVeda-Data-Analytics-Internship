@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-This repository showcases the projects completed during my **CodVeda Technologies Data Analytics Internship**. The internship focused on applying data analytics and machine learning techniques to solve real-world business problems using Python, SQL, and Power BI.
+This repository showcases the projects completed during my **Codveda Technologies Data Analytics Internship**. The internship focused on applying data analytics and machine learning techniques to solve real-world business problems using Python, SQL, and Power BI.
 
 The projects cover the complete data analytics lifecycle, including data cleaning, exploratory data analysis, predictive modeling, machine learning, and business intelligence dashboard development.
 
