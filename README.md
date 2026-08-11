@@ -1,6 +1,6 @@
 
 
-# 🚀 CodVeda Data Analytics Internship
+# 🚀 Codveda Data Analytics Internship
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
